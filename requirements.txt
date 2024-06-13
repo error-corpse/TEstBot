@@ -1,5 +1,5 @@
 aiofiles==23.2.1
-tz==2021.1
+pip install pytz
 aiohttp==3.9.2
 Flask==2.2.2
 gunicorn==20.1.0
